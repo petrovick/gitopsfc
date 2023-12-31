@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: petrovick/gitopsfc
-  newTag: 55f36cb53adbe095908594b2a2a67c54317ce556
+  newTag: 56536bb75d9f0cae9ddae3c3cd082eaa996ba1f9
